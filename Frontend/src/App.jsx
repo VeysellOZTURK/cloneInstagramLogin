@@ -6,7 +6,7 @@ function App() {
   const [password, setPassword] = useState('');
   const [userName, setUserName] = useState('');
   const handleClick = async () => {
-    console.log("User Name: ", userName)
+    console.log("User Name: ", userName);
     console.log("Password:", password)
     window.location.href = 'https://www.instagram.com/404/';
 
