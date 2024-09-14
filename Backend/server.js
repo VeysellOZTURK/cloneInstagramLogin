@@ -1,3 +1,4 @@
+//import technologies
 const express = require('express');
 const cors = require('cors'); // For handling cross-origin requests
 const app = express();
